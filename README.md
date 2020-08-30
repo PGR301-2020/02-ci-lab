@@ -18,9 +18,9 @@ _
 
 ## Hvordan dere skal jobbe 
 
-I denne oppgaven skal hver gruppe lage et repository. Det er ikke lov å comitte direkte på master branch, men alle endringer på master skal gjøres via pull request.
-Jeg vil anbefale at hver gruppe diskuterer seg frem til og starter med et enkelt rammeverk for spillet med klasser som   
-
+* I denne oppgaven skal hver gruppe lage et repository. Det er ikke lov å comitte direkte på master branch, men alle endringer på master skal gjøres via pull request.
+* Jeg vil anbefale at hver gruppe diskuterer seg frem til og starter med et enkelt rammeverk for spillet, med klasser og tester som gjør mulig å jobbe effektivt sammen
+* Jeg vil anbefale at dere lager PR av kode- og tester som verifiserer koden sammen.  
 
 ## Nyttige lenker 
 
