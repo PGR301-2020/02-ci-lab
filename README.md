@@ -6,7 +6,6 @@ I dagens lab skal vi øve på Trunk basert utvikling i team på 4. Dere skal del
 
 Sammen skal dere løse følgende oppgave ; https://speakerdeck.com/artenes/the-bowling-game-kata-in-java - Oppgaven går ut på å lage et Javaprogram som kalkulerer poeng for Bowling. For de som ikke er så flinke, følger et lynkurs her; 
 
-_
 * Det spilles i en serie på 10 omganger ( også kalt rute), hver på to kast til hver deltager. 
 * Kjeglene reises mellom hver omgang. 
 * Felles alle kjeglene på første kast kalles det ”strike” som gir 10 poeng pluss bonus i form av verdient på de neste to kastene.
@@ -18,7 +17,8 @@ _
 
 ## Hvordan dere skal jobbe 
 
-I denne oppgaven skal hver gruppe lage et repository. Det er ikke lov å comitte direkte på master branch, men alle endringer på master skal gjøres via pull request.
-Jeg vil anbefale at hver gruppe diskuterer seg frem til og starter med et enkelt rammeverk for spillet med klasser som   
+I denne oppgaven skal hver gruppe lage et repository. Dere skal sette opp et Travis-prosjekt for repository. Det er ikke lov å comitte direkte på master branch, men alle endringer på master skal gjøres via pull request. Det skal ikke være mulig å merge en pull request dersom travis ikke kan bygge. 
 
+Det ligger en veldig enkel start dere kan ta utgangspunk i, i dette repoet
 
+Lykke til!
