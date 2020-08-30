@@ -27,3 +27,4 @@ _
 * https://docs.github.com/en/github/administering-a-repository/about-protected-branches
 * https://docs.travis-ci.com/user/languages/java/
 * https://trunkbaseddevelopment.com/
+* https://devcenter.heroku.com/articles/pipelines
