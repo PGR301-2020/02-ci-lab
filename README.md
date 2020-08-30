@@ -22,3 +22,8 @@ I denne oppgaven skal hver gruppe lage et repository. Det er ikke lov å comitte
 Jeg vil anbefale at hver gruppe diskuterer seg frem til og starter med et enkelt rammeverk for spillet med klasser som   
 
 
+## Nyttige lenker 
+
+* https://docs.github.com/en/github/administering-a-repository/about-protected-branches
+* https://docs.travis-ci.com/user/languages/java/
+* https://trunkbaseddevelopment.com/
