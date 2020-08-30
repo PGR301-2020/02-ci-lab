@@ -1,10 +1,10 @@
 # 02-ci-lab
 
-I,: dagens lab skal vi øve på Trunk basert utvikling i team på 4. Dere skal dele dere opp i grupper på 4 - (Automatisk via Zoom breakout rooms). 
+I,: dagens lab skal vi øve på Trunk basert utvikling i team på 4. (Automatisk via Zoom breakout rooms). 
 
 ## Bowling game kata
 
-Sammen skal dere løse følgende oppgave ; https://speakerdeck.com/artenes/the-bowling-game-kata-in-java - Oppgaven går ut på å lage et Javaprogram som kalkulerer poeng for Bowling. For de som ikke er så flinke, følger et lynkurs her; 
+Sammen skal dere løse følgende oppgave ; https://speakerdeck.com/artenes/the-bowling-game-kata-in-java - Oppgaven går ut på å lage et Javaprogram som kalkulerer poeng for Bowling. For å holde oppgaven enkel, skal dette bare gjøres for en spiller. For de som ikke er så flinke, følger et lynkurs her; 
 
 _
 * Det spilles i en serie på 10 omganger ( også kalt rute), hver på to kast til hver deltager. 
@@ -21,4 +21,7 @@ _
 I denne oppgaven skal hver gruppe lage et repository. Det er ikke lov å comitte direkte på master branch, men alle endringer på master skal gjøres via pull request.
 Jeg vil anbefale at hver gruppe diskuterer seg frem til og starter med et enkelt rammeverk for spillet med klasser som   
 
+## Lenker 
 
+* https://docs.github.com/en/github/administering-a-repository/about-protected-branches#branch-protection-settings
+* https://speakerdeck.com/artenes/the-bowling-game-kata-in-java 
