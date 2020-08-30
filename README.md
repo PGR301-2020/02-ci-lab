@@ -1,6 +1,6 @@
 # 02-ci-lab
 
-I dagens lab skal vi øve på Trunk basert utvikling i team på 4. Dere skal dele dere opp i grupper på 4 - (Automatisk via Zoom breakout rooms). 
+I,: dagens lab skal vi øve på Trunk basert utvikling i team på 4. Dere skal dele dere opp i grupper på 4 - (Automatisk via Zoom breakout rooms). 
 
 ## Bowling game kata
 
