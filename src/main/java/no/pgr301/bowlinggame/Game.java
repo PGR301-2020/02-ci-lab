@@ -1,5 +1,8 @@
 package no.pgr301.bowlinggame;
 
+/**
+ * @author Glenn Bech
+ */
 public class Game {
 
     public void roll(int pins) {
